@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ambati Sai</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-- 🌱 I’m currently learning **Java, MySQL**
+- 🌱 I’m currently learning ** HTML,CSS,JS**
 
 - 📫 How to reach me **ambatisaiofficial@gmail.com**
 
